@@ -1,0 +1,9 @@
+{
+  "name": "favorites-api",
+  "version": "1.0.0",
+  "description": "Service to manage customers' favorite products",
+  "main": "index.js",
+  "repository": "https://github.com/kassiacatarine/favorites-api.git",
+  "author": "Kássia Catarine <kassia_catarine.15@hotmail.com>",
+  "license": "MIT"
+}
